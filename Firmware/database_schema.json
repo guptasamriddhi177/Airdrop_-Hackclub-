@@ -1,0 +1,56 @@
+{
+  "devices": {
+    "airdrop-rev-a": {
+      "metadata": {
+        "hardware_revision": "REV-A",
+        "firmware_version": "0.1.0",
+        "provisioned": false
+      },
+      "latest": {
+        "timestamp_utc": null,
+        "bme680": {
+          "state": "not_configured",
+          "temperature_c": null,
+          "humidity_pct": null,
+          "pressure_hpa": null,
+          "gas_resistance_ohm": null
+        },
+        "mpu6050": {
+          "state": "not_configured",
+          "acceleration_ms2": [
+            null,
+            null,
+            null
+          ],
+          "gyroscope_rads": [
+            null,
+            null,
+            null
+          ]
+        },
+        "indoor_airflow": {
+          "state": "not_configured",
+          "air_velocity_m_s": null
+        },
+        "outdoor_anemometer": {
+          "state": "not_configured",
+          "pulse_count": null,
+          "wind_speed_m_s": null
+        },
+        "leak_zones": {
+          "zone_1": "unknown",
+          "zone_2": "unknown",
+          "zone_3": "unknown"
+        },
+        "ultrasonic_cm": {
+          "sensor_1": null,
+          "sensor_2": null
+        },
+        "quality": {
+          "stale": true,
+          "validity": {}
+        }
+      }
+    }
+  }
+}
