@@ -253,27 +253,7 @@ Firmware/
 ├── Sensor_Drivers/
 └── Configuration/
 
-Wearable/
-├── Hardware/
-├── Firmware/
-└── Interface/
-
-Software/
-├── Dashboard/
-├── Firebase/
-├── Risk_Engine/
-└── Application/
-
-Mechanical/
-├── CAD/
-├── STEP/
-└── Assembly/
-
  Documentation/
-├── Architecture/
-├── Testing/
-├── Design_Decisions/
-└── Progress_Logs/
 └── LICENSE
 
 Development Roadmap
