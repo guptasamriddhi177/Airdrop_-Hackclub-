@@ -42,6 +42,7 @@ Project Gallery
 <p align="center">
   
 4. PCB design 
+<img width="720" height="960" alt="202314ac-1ba9-45b3-9563-10a41cd0129d_thumb" src="https://github.com/user-attachments/assets/f03df1f1-3559-4c5c-88ad-842a7933f0be" />
 
 <p align="center">
   
