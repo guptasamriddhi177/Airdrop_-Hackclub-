@@ -32,7 +32,6 @@ Project Gallery
 <p align="center">
   
 </p>2. Schematics
-
 <img width="720" height="393" alt="a742cac5-bd06-4268-bb08-509a6f3966fe_thumb" src="https://github.com/user-attachments/assets/b206cf2a-07fa-484e-95f8-54b8cb96b942" />
 
 <p align="center">
