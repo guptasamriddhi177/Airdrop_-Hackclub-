@@ -31,23 +31,24 @@ Project Gallery
 
 <p align="center">
   
-</p>2. Schematics
+2. Schematics
 <img width="720" height="393" alt="a742cac5-bd06-4268-bb08-509a6f3966fe_thumb" src="https://github.com/user-attachments/assets/b206cf2a-07fa-484e-95f8-54b8cb96b942" />
 
 <p align="center">
   
-</p>3. 3D mechanical assembly 
+3. 3D mechanical assembly 
+<img width="720" height="960" alt="1aeadbcd-61e0-4052-9afa-a80fb1f66d85_thumb" src="https://github.com/user-attachments/assets/f932976d-cbe9-497c-8af8-18848c3b8b51" />
 
 <p align="center">
   
-</p>4. PCB design 
+4. PCB design 
 
 <p align="center">
   
-</p>5. AIRDROP Wearable
+5. AIRDROP Wearable
 <p align="center">
   
-</p>6. Digital Monitoring Dashboard
+6. Digital Monitoring Dashboard
 
 
 
