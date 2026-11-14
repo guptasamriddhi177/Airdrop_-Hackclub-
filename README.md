@@ -27,6 +27,7 @@ The ultimate objective is to create an integrated environmental safety ecosystem
 Project Gallery
 
 1. AIRDROP Sensor Pod & Wearable
+<img width="719" height="469" alt="ca7ac56a-df83-47e9-8123-74f384368aa6_thumb" src="https://github.com/user-attachments/assets/be77375b-b225-491a-b1bb-dcb774df72bc" />
 
 <p align="center">
   
