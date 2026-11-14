@@ -1,0 +1,12 @@
+
+Category,Component,Quantity,Unit Price (USD),Total (USD),Supplier
+Controller,ESP32-WROOM-32 Bare Module,2,3.50,7.00,https://robu.in/
+Environmental,BME680 Sensor,1,5.50,5.50,https://robu.in/
+Motion,MPU6050 Sensor,1,2.00,2.00,https://robu.in/
+Distance,HC-SR04 Ultrasonic Sensor,3,2.00,6.00,https://robu.in/
+Airflow,Airflow Sensor Element,1,6.00,6.00,https://robu.in/
+Leak Detection,Water Leak Sensor Element,2,1.00,2.00,https://robu.in/
+Power,USB Power Regulation IC,1,2.00,2.00,https://robu.in/
+Wearable,Wearable Electronics Components,1,8.00,8.00,https://robu.in/
+PCB,Custom 4-Layer PCB 50x50mm,1,120.00,120.00,Custom Fabrication
+TOTAL,Complete AIRDROP Hardware,, ,158.50,
