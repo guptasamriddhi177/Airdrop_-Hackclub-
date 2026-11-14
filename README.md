@@ -229,53 +229,51 @@ Repository Structure
 
 AIRDROP/
 
-│
-├── README.md
-│
-├── Images/
-│   ├── airdrop-banner.png
-│   ├── hardware-overview.png
-│   ├── system-architecture.png
-│   ├── pcb-design.png
-│   ├── 3d-assembly.png
-│   ├── wearable.png
-│   └── dashboard.png
-│
+ README.md
+
+ Images/
+ ├── airdrop-banner.png
+ ├── hardware-overview.png
+ ├── system-architecture.png
+ ├── pcb-design.png
+ ├── 3d-assembly.png
+ ├── wearable.png
+ └── dashboard.png
+
+Hardware/
+├── Schematics/
+├── PCB/
+├── Gerber/
+├── BOM/
+└── Datasheets/
+
+Firmware/
+├── ESP32_Node_1/
+├── ESP32_Node_2/
+├── Sensor_Drivers/
+└── Configuration/
+
+Wearable/
 ├── Hardware/
-│   ├── Schematics/
-│   ├── PCB/
-│   ├── Gerber/
-│   ├── BOM/
-│   └── Datasheets/
-│
 ├── Firmware/
-│   ├── ESP32_Node_1/
-│   ├── ESP32_Node_2/
-│   ├── Sensor_Drivers/
-│   └── Configuration/
-│
-├── Wearable/
-│   ├── Hardware/
-│   ├── Firmware/
-│   └── Interface/
-│
-├── Software/
-│   ├── Dashboard/
-│   ├── Firebase/
-│   ├── Risk_Engine/
-│   └── Application/
-│
-├── Mechanical/
-│   ├── CAD/
-│   ├── STEP/
-│   └── Assembly/
-│
-├── Documentation/
-│   ├── Architecture/
-│   ├── Testing/
-│   ├── Design_Decisions/
-│   └── Progress_Logs/
-│
+└── Interface/
+
+Software/
+├── Dashboard/
+├── Firebase/
+├── Risk_Engine/
+└── Application/
+
+Mechanical/
+├── CAD/
+├── STEP/
+└── Assembly/
+
+ Documentation/
+├── Architecture/
+├── Testing/
+├── Design_Decisions/
+└── Progress_Logs/
 └── LICENSE
 
 Development Roadmap
