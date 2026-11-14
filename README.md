@@ -47,6 +47,7 @@ Project Gallery
 <p align="center">
   
 5. AIRDROP Wearable
+6. 
  <img width="720" height="480" alt="142408ac-85ca-4ca9-91b3-9c55f218950b_thumb" src="https://github.com/user-attachments/assets/39ad8f4b-91e3-46b9-9273-36a730d153d3" />
 
 <p align="center">
