@@ -1,0 +1,33 @@
+{
+  "devices": {
+    "airdrop-rev-a-001": {
+      "status": {
+        "online": false,
+        "firmwareVersion": "0.1.0-scaffold",
+        "lastSeen": 0
+      },
+      "latest": {
+        "timestamp": 0,
+        "environment": {
+          "temperatureC": null,
+          "humidityPct": null,
+          "pressureHpa": null,
+          "gasResistanceOhm": null,
+          "status": "unavailable"
+        },
+        "motion": {"ax": null, "ay": null, "az": null, "gx": null, "gy": null, "gz": null, "status": "unavailable"},
+        "indoorAirflow": {"value": null, "unit": "m/s", "status": "not_configured"},
+        "outdoorWind": {"pulsesPerSecond": null, "speedMps": null, "status": "not_calibrated"},
+        "leak": {
+          "zone1": {"wet": null, "status": "unconfigured"},
+          "zone2": {"wet": null, "status": "unconfigured"},
+          "zone3": {"wet": null, "status": "unconfigured"}
+        },
+        "distance": {
+          "channel1Cm": null,
+          "channel2Cm": null
+        }
+      }
+    }
+  }
+}
