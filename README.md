@@ -336,5 +336,5 @@ PCB Software| KiCad
 Development Type| Hardware + Software
 
 <p align="center">
-  **A Safer Tomorrow, Powered by AIRDROP.**
+  A Safer Tomorrow, Powered by AIRDROP.
 </p>
