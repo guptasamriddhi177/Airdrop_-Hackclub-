@@ -6,7 +6,7 @@ Smart Environmental Safety & Early Warning System
 <img width="720" height="405" alt="608bbcf5-2657-4c95-96f3-e0eb5eb77617_thumb" src="https://github.com/user-attachments/assets/1a9264c4-4460-435c-a14a-df0e66fcc263" />
 
 </p><p align="center">
-  **DETECT. PREDICT. ALERT. PROTECT.**
+  DETECT. PREDICT. ALERT. PROTECT.
 </p><p align="center">
   An intelligent environmental monitoring ecosystem combining IoT, embedded systems, cloud connectivity, and wearable technology.
 </p>---
@@ -47,10 +47,13 @@ Project Gallery
 <p align="center">
   
 5. AIRDROP Wearable
+ <img width="720" height="480" alt="142408ac-85ca-4ca9-91b3-9c55f218950b_thumb" src="https://github.com/user-attachments/assets/39ad8f4b-91e3-46b9-9273-36a730d153d3" />
+
 <p align="center">
   
 6. Digital Monitoring Dashboard
 
+<img width="720" height="480" alt="0767eb2a-9c46-4a95-b973-f2ec27415a5e_thumb" src="https://github.com/user-attachments/assets/8c68d075-eee7-4279-bb78-c9831203a91e" />
 
 
 ---
